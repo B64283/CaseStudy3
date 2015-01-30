@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CaseStudy3</string>
+    <string name="title_section1">Current News</string>
+    <string name="title_section2">Featured Story</string>
+    <string name="title_section3">Image Gallery</string>
+    <string name="title_section4">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Aisa">Aisa</string>
+    <string name="Israeli">Israel</string>
+
+
+</resources>
